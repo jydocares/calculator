@@ -1,2 +1,2 @@
 # calculator
-Simple Arithmetic Calculator
+Simple Arithmetic Calculator.
